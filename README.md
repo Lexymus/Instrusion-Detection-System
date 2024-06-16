@@ -1,4 +1,6 @@
 # Instrusion-Detection-System
+This repo contains code related to an intrusion detection system using machine learning technique
+
 Requirements :
 numpy, 
 pandas,
